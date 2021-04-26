@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Kai
+- 👀 I’m interested in anything to do with Front-End Development
+- 🌱 I’m currently learning HTML, CSS, Javascript, JQuery
+- 💞️ I’m looking to collaborate on any basic front-end project with HTML, CSS, Javascript, JQuery etc.
+- 📫 How to reach me: DM me on Twitter :) 
